@@ -28,6 +28,7 @@ Use a 20-by-20 array floor that’s initialized to zeros. Read commands from an 
 ## Fig. 7.29 | Turtle graphics commands.
 
 Suppose that the turtle is somewhere near the center of the floor. The following “program” would draw and display a 12-by-12 square, leaving the pen in the up position:
+
 2
 
 5,12
